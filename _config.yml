@@ -1,10 +1,10 @@
 remote_theme: hydecorp/hydejack@v9.1.6
 
-title: tr4v3ler's blog
-description: Security research notes and writeups.
+title: tr4v3ler's security blog
+description: tr4v3ler's security blog
 url: "https://tr4v3ler.github.io"
 baseurl: ""
-lang: "en"
+lang: "zh-CN"
 
 plugins:
   - jekyll-remote-theme
@@ -14,4 +14,9 @@ plugins:
 
 author:
   name: tr4v3ler
-  email: ""
+  email: "tr4v3ler@icloud.com"
+  picture: /assets/img/avatar.jpg
+  social:
+    twitter: 0xtr4v3ler
+
+twitter_username: 0xtr4v3ler
