@@ -4,7 +4,7 @@ title: tr4v3ler
 cover: true
 ---
 
-**A Harmony&Android OS Kernel Security Researcher**
+**Harmony 与 Android OS 内核安全研究员**
 
 ---
 
