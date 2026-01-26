@@ -14,10 +14,8 @@ cover: true
 - **Android 安全研究**：漏洞挖掘、逆向分析、安全加固
 - **移动安全工具开发**：自动化分析工具、调试工具
 
-## 最新文章
-
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+  {% include_cached components/post.html post=post %}
 {% endfor %}
 
 ---
