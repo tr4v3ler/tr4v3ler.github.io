@@ -1,11 +1,9 @@
 ---
 tags: [adb]
-title: 2026-01-24-adb-connect-cross-host
+title: adb-connect-cross-host
 created: '2026-01-24T09:48:27.501Z'
 modified: '2026-01-24T13:11:57.114Z'
 ---
-
-# 2026-01-24-adb-connect-cross-host
 
 有时可能需要在A主机上使用adb远程连接B主机上的android设备或者模拟器，下面针对这两种场景介绍实现的细节。
 
