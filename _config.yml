@@ -1,7 +1,7 @@
 remote_theme: hydecorp/hydejack@v9.1.6
 
-title: tr4v3ler's security blog
-description: tr4v3ler's security blog
+title: tr4v3ler
+description: A Harmony/Android OS Security Researcher
 url: "https://tr4v3ler.github.io"
 baseurl: ""
 lang: "zh-CN"
@@ -23,7 +23,14 @@ author:
   name: tr4v3ler
   email: "tr4v3ler@icloud.com"
   picture: /assets/img/avatar.jpg
+  about: |
+    A Harmony/Android OS Security Researcher
+    
+    专注于 HarmonyOS 和 Android 系统安全研究，致力于移动操作系统安全漏洞挖掘、逆向工程和安全工具开发。
   social:
+    github: tr4v3ler
     twitter: 0xtr4v3ler
+    email: tr4v3ler@icloud.com
 
 twitter_username: 0xtr4v3ler
+github_username: tr4v3ler
