@@ -4,7 +4,7 @@ title: tr4v3ler
 cover: true
 ---
 
-**Harmony 与 Android OS 内核安全研究员**
+**一名鸿蒙系统与安卓系统内核安全研究员，目前就职于华为。**
 
 ---
 
