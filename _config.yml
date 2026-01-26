@@ -12,13 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-
 author:
   name: tr4v3ler
   email: "tr4v3ler@icloud.com"

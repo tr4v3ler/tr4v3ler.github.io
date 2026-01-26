@@ -29,25 +29,6 @@ tags: [security, writeup]
 
 3. Commit and push. GitHub Pages will rebuild automatically.
 
-### Notable workflow (avoid duplicate titles)
-If your editor inserts an H1 at the top of the note, Hydejack will also
-render the post title, which causes a duplicate. Add `hide_title: true`
-to the front matter and keep the H1 in the body.
-
-Example front matter:
-
-```
----
-layout: post
-title: 2026-01-24-adb-connect-cross-host
-tags: [adb]
-hide_title: true
----
-```
-
-Alternatively, remove the H1 from the body and use `##` for the first
-section heading.
-
 ### Add an avatar
 1. Add an image file at `assets/img/avatar.jpg` (or `.png`).
 2. Set `author.picture` in `_config.yml` to match the path, e.g.:
