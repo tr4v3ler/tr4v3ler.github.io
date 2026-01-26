@@ -1,3 +1,17 @@
-theme: jekyll-theme-minimal
+remote_theme: hydecorp/hydejack@v9.1.6
+
 title: tr4v3ler's blog
-description: Bookmark this to keep an eye on my project updates!
+description: Security research notes and writeups.
+url: "https://tr4v3ler.github.io"
+baseurl: ""
+lang: "en"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+author:
+  name: tr4v3ler
+  email: ""
