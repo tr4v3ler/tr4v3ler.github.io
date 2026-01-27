@@ -15,13 +15,3 @@ cover: true
 - **移动安全工具开发**：自动化分析工具、调试工具
 
 ---
-
-## 文章列表
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
-
----
-
-> "Security is not a product, but a process."
