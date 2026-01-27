@@ -16,8 +16,10 @@ cover: true
 
 ---
 
+## 文章列表
+
 {% for post in site.posts %}
-  {% include_cached components/post.html post=post %}
+- [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
 ---
